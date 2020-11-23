@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/webisoft-test/static/css/main.df06b1df.chunk.css",
+    "main.js": "/webisoft-test/static/js/main.ed68429b.chunk.js",
+    "main.js.map": "/webisoft-test/static/js/main.ed68429b.chunk.js.map",
+    "runtime-main.js": "/webisoft-test/static/js/runtime-main.6227bed4.js",
+    "runtime-main.js.map": "/webisoft-test/static/js/runtime-main.6227bed4.js.map",
+    "static/js/2.4d04c8e1.chunk.js": "/webisoft-test/static/js/2.4d04c8e1.chunk.js",
+    "static/js/2.4d04c8e1.chunk.js.map": "/webisoft-test/static/js/2.4d04c8e1.chunk.js.map",
+    "index.html": "/webisoft-test/index.html",
+    "static/css/main.df06b1df.chunk.css.map": "/webisoft-test/static/css/main.df06b1df.chunk.css.map",
+    "static/js/2.4d04c8e1.chunk.js.LICENSE.txt": "/webisoft-test/static/js/2.4d04c8e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6227bed4.js",
+    "static/js/2.4d04c8e1.chunk.js",
+    "static/css/main.df06b1df.chunk.css",
+    "static/js/main.ed68429b.chunk.js"
+  ]
+}
