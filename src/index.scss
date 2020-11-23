@@ -1,0 +1,13 @@
+$label-min-width: 80px;
+
+.input-group-text {
+  min-width: $label-min-width;
+  display: inline-block;
+}
+
+.mr-auto {
+  flex: 1;
+  margin: auto !important;
+  display: flex;
+  justify-content: space-evenly;
+}
