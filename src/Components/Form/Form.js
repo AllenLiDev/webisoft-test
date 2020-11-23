@@ -17,6 +17,7 @@ const Form = (props) => {
 
   const handleSubmit = (event) => {
     event.preventDefault();
+    // submit data
     alert(
       `Year: ${selectedYear}, Make: ${selectedMake}, Model: ${selectedModel}, Trim: ${selectedTrim}, odometer: ${odometerValue}`
     );
